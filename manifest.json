@@ -1,0 +1,17 @@
+{
+    "lang": "en-us",
+    "name": "RiseForCareer App",
+    "short_name": "RiseForCareer",
+    "description": "Hiring Businesses are easily to use and hire",
+    "start_url": "/",
+    "background_color": " #FFA726",
+    "theme_color": "#FFA726",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/assets/images/icon.png",
+            "sizes": "512x512"
+        }
+    ]
+}
